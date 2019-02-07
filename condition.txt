@@ -1,1 +1,11 @@
 Exemple de condition :
+
+Soustraction:
+
+if (maVariable1>maVariable2){
+monResultat=maVariable1-maVariable2;
+echo monResultat;
+}
+else{
+echo "Impossible de faire la soustraction";
+}

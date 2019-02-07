@@ -11,3 +11,6 @@ echo "Impossible de faire la soustraction";
 }
 
 //Cette condition permet de vérifier que maVariable1 est plus grand que maVariable2 et que la soustraction peut être faite, sinon elle envoie un message pour dire que c'est pas possible
+
+
+Voila c'est fini pour aujourd'hui
